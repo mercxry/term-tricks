@@ -82,7 +82,7 @@ func safeExit() {
 	termtricks.ShowCursor()
 }
 ```
-- [More examples in the "examples" directory](https://github.com/mercxry/term-tricks/examples/)
+- [More examples in the "examples" directory](https://github.com/mercxry/term-tricks/tree/master/examples)
 
 ## License
-[ISC](https://github.com/mercxry/term-tricks/LICENSE)
+[ISC](https://github.com/mercxry/term-tricks/blob/master/LICENSE)
